@@ -1,0 +1,13 @@
+This branch contains two projects I worked on using the Pololu Zumo 32U4 OLED!
+
+=== Project 1 ===
+This C program allows for the Pololu Zumo 32U4 to navigate to a specified location within a 60 by 60 inch 2D coordinate plane.
+Any coordinates within that range can be input using the Zumo 32U4's buttons and will be displayed on the OLED screen.
+The robot will then navigate a given coordinate grid when placed facing in the positive Y direction at the origin.
+
+=== Project 2 ===
+This C Program allows for the Pololu Zumo 32U4 to traverse a given warzone.
+Essentially, the program makes use of the Zumo's proximity sensors to detect and turn away from objects that it approaches.
+To initialize, the number of objects to avoid must be input using the Zumo's buttons.
+The OLED screen of the Zumo will show how close the robot is to an object using a numeric scale from 1-10 and will also count the number of detected objects.
+When it successfully avoids the input number of objects, it will do a celebratory spin!
