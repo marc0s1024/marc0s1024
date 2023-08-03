@@ -1,1 +1,2 @@
-Hey, I'm Marcos and this is just a basic repo where I store my various school and personal projects! Feel free to look around and thanks for viewing!
+This is a project I worked on with a classmate where we programmed a 4-bit calculator using Verilog made to be used on a BASYS3 FPGA.
+The project is broken down into various modules which carry out specific operations and includes driver modules for the seven-segment display of the BASYS3 board.
