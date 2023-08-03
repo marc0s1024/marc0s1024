@@ -1,2 +1,3 @@
-This is a project I worked on with a classmate where we programmed a 4-bit calculator using Verilog made to be used on a BASYS3 FPGA.
+This is a project I worked on with a classmate where we programmed a 4-bit calculator using Verilog in Vivado made to be used on a BASYS3 FPGA.
 The project is broken down into various modules which carry out specific operations and includes driver modules for the seven-segment display of the BASYS3 board.
+*The calculator Verilog file is uploaded as a zip due to size*
