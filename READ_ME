@@ -1,6 +1,7 @@
 This branch contains some of my MATLAB projects!
 
 === Final_Project_Group_15 ===
+*SOPHOMORE YEAR*
 This project is one I led where my group had to explore representing a dynamical system in MATLAB.
 The final project expanded on previous labs we completed by accounting for disturbances in the linear dynamic system.
 A report explaining each MATLAB function is included and the live script file automatically runs all functions with randomized inputs!
